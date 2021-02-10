@@ -1,0 +1,85 @@
+div{
+    
+
+}
+html{
+    scroll-behavior: smooth;
+}
+.heading{
+    padding-right: 12cm;
+    padding: 10px;
+    font-size: 109px;
+    margin-right: 446px;
+
+}
+.index{
+    background-color: #1fd499 ; 
+    border-radius: 4px;
+    padding: 2px;
+    text-decoration: none;
+    color: brown;
+}
+nav{
+    list-style-type: none;
+    list-style: none;
+    position: fixed;
+    display: inline;
+}
+ul{
+    list-style: none;
+    display: inline;
+}
+li{
+    display: inline;
+}
+html {
+    background-color: #E4E9FD;
+    background-image: -webkit-linear-gradient(65deg, #d7e971 50%, #E4E9FD 50%);
+    min-height: 650px;
+    font-family: 'helvetica neue';
+}
+img{
+    height: 270px;
+    width: 420px;
+    border-radius: 12px;
+    margin: 12px;
+}
+.name{
+    margin: 12px;
+    display: flex;
+    background-color: aquamarine;
+    margin-bottom: 5px;
+    margin-top: 7px;
+    align-self: flex-start;
+    display: inline;
+}
+.price{
+    text-align: end;
+    /* display: flex; */
+    border-radius: 2px;
+    background-color: rgb(15, 148, 126);
+    align-self: flex-end;
+    margin-left: 13px;
+}
+.product{
+    width: 400px;
+    display: inline-block;
+    margin: 12px;
+}
+.s2t + .s1t{
+    display: flex;
+}
+.abouts{
+    background-color: #1fd499;
+    color: brown;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 2px;
+}
+.contacts{
+    background-color: #1fd499;
+    color: brown;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 2px;
+}
